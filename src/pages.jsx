@@ -32,21 +32,21 @@ export const NotFound = () => {
   );
 };
 
-// const Services = () => (
+// export const Services = () => (
 //   <div>
 //     <h1>Our services</h1>
 //     <LoremIpsum p={2} />
 //   </div>
 // );
 
-// const History = () => (
+// export const History = () => (
 //   <div>
 //     <h1>History</h1>
 //     <LoremIpsum p={2} />
 //   </div>
 // );
 
-// const Location = () => (
+// export const Location = () => (
 //   <div>
 //     <h1>Location</h1>
 //     <LoremIpsum p={2} />
